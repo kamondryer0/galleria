@@ -2,7 +2,7 @@
 name: "illustration"
 arts:
 # Column 1
-- image: "/images/galleries/illustration/AvenueinSchlossKammerPark.jpg"
+- image: "/galleria/images/galleries/illustration/AvenueinSchlossKammerPark.jpg"
   order: "1"
   title: "Avenue in Schloss Kammer Park"
   artist: "Gustav Klimt"
@@ -14,14 +14,14 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
 
-- image: "/images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
+- image: "/galleria/images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
   order: "3"
   title: "title"
   artist: "Gustav Klimt"
   description: "description"
 
 # Column 2
-- image: "/images/galleries/illustration/Baby.jpg"
+- image: "/galleria/images/galleries/illustration/Baby.jpg"
   order: "4"
   title: "Baby"
   artist: "Gustav Klimt"
@@ -59,7 +59,7 @@ arts:
   description: "description"
 
 # Column 4
-- image: "/images/galleries/illustration/Gustav_Klimt_046.jpg"
+- image: "/galleria/images/galleries/illustration/Gustav_Klimt_046.jpg"
   order: "10"
   title: "title"
   artist: "Gustav Klimt"
