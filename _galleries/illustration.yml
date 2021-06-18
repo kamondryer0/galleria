@@ -27,17 +27,17 @@ arts:
   artist: "Gustav Klimt"
   description: "Image with a description. This could be more info about the medium, the client, the project itself, etc."
 
-- image: "/images/galleries/illustration/Lady-with-Hat-and-Feather-Boa.jpg"
+- image: "http://uckarl.github.io/interests/full-ipadart/ny2018.png"
   order: "5"
   title: "title"
   artist: "Gustav Klimt"
   description: "description"
 
-- image: "/images/galleries/illustration/klimt.jpg"
+- image: "http://uckarl.github.io/interests/full-ipadart/full-city.gif"
   order: "6"
   title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  artist: "Karl Ni
+  description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
  
 # Column 3
 - image: "/images/galleries/illustration/Birch-Trees.jpg"
@@ -46,10 +46,10 @@ arts:
   artist: "Gustav Klimt"
   description: "asfsdfsdf"
 
-- image: "/images/galleries/illustration/Country-Garden-With-Sunflowers.jpg"
+- image: "http://uckarl.github.io/interests/full-ipadart/full-pcar1.png"
   order: "8"
-  title: "Country Garden With Sunflowers"
-  artist: "Gustav Klimt"
+  title: "Sketch from 2017, Google Search on Stephen King found an old photograph of a poolice car. Sketched here. Drawn with iPad pencil."
+  artist: "Karl Ni"
   description: "dfjhtryf"
   
 - image: "/images/galleries/illustration/Fulfillment.jpg"
