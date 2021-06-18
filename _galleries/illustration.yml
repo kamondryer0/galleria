@@ -59,11 +59,11 @@ arts:
   description: "At the height of Wanda Vision, I sketched this based on Marvel comics I'd seen."
 
 # Column 4
-- image: "/galleria/images/galleries/illustration/Gustav_Klimt_046.jpg"
+- image: "/galleria/images/galleries/illustration/WoodenCorridor.jpg"
   order: "10"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "Oil on wood sketch"
+  artist: "Karl Ni"
+  description: "Product on Etsy http://etsy.com/listing/967048881, sketched on wood, curved vanishing point due to nonlinear road."
   
 - image: "/images/galleries/illustration/The-Tree-Of-Life.jpg"
   order: "11"
