@@ -29,34 +29,34 @@ arts:
 
 - image: "http://uckarl.github.io/interests/full-ipadart/ny2018.png"
   order: "5"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "A City Canal"
+  artist: "Karl Ni"
+  description: "Sketch to ring in the new year. Drawn with iPad pencil."
 
 - image: "http://uckarl.github.io/interests/full-ipadart/full-city.gif"
   order: "6"
-  title: "title"
-  artist: "Karl Ni
+  title: "Downtown 60's scene."
+  artist: "Karl Ni"
   description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
  
 # Column 3
 - image: "/images/galleries/illustration/Birch-Trees.jpg"
   order: "7"
-  title: "Birch Trees"
+  title: "Trees"
   artist: "Gustav Klimt"
   description: "asfsdfsdf"
 
 - image: "http://uckarl.github.io/interests/full-ipadart/full-pcar1.png"
   order: "8"
-  title: "Sketch from 2017, Google Search on Stephen King found an old photograph of a poolice car. Sketched here. Drawn with iPad pencil."
+  title: "Writing a Ticket"
   artist: "Karl Ni"
-  description: "dfjhtryf"
+  description: "Sketch from 2017, Google Search on Stephen King found an old photograph of a poolice car. Sketched here. Drawn with iPad pencil."
   
-- image: "/images/galleries/illustration/Fulfillment.jpg"
+- image: "https://cdn.ingramer.com/img/aHR0cHM6Ly9zY29udGVudC1hcm4yLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE1L2UzNS8xNzc3NDQzNTVfNTcxMDE0ODA3NjIzOTI5XzMzMjc4ODEyNjc2OTA3Mjk2MzVfbi5qcGc_dHA9MSZfbmNfaHQ9c2NvbnRlbnQtYXJuMi0xLmNkbmluc3RhZ3JhbS5jb20mX25jX2NhdD0xMDEmX25jX29oYz1GanJfYmxaSWUyMEFYX3NIdFNHJmVkbT1BSkJnWnJZQkFBQUEmY2NiPTctNCZvaD02MjIwNzhhMmMyYzAzMmMxMDk4OGFiZjZlMjcyZmQ3MCZvZT02MEQzMDhCNiZfbmNfc2lkPTc4YzY2Mg--/"
   order: "9"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "Vision Sketch"
+  artist: "Karl Ni"
+  description: "At the height of Wanda Vision, I sketched this based on Marvel comics I'd seen."
 
 # Column 4
 - image: "/galleria/images/galleries/illustration/Gustav_Klimt_046.jpg"
