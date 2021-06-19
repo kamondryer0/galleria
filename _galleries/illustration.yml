@@ -100,4 +100,28 @@ arts:
   artist: "Karl Ni"
   title: "Fast Food at Your Service"
   description: "Thank you to the fast food servers during COVID."
+
+- image: "/galleria/images/galleries/illustration/Truck.jpg"
+  order: "17"
+  artist: "Karl Ni"
+  title: "Truck in the Spineless Porcupine"
+  description: "Spineless Porcupine book."
+
+- image: "/galleria/images/galleries/illustration/WinnieThePooh.jpg"
+  order: "18"
+  artist: "Karl Ni"
+  title: "Let's go!"
+  description: "Characters and Farley iPad painting."
+
+- image: "/galleria/images/galleries/illustration/Zorro.jpg"
+  order: "19"
+  artist: "Karl Ni"
+  title: "Zorro!"
+  description: "The Spanish Fox superhero."
+
+- image: "/galleria/images/galleries/illustration/TrafficinEurope.jpg"
+  order: "20"
+  artist: "Karl Ni"
+  title: "Traffic in the European City"
+  description: "Traffic in the European City."
 ---
