@@ -38,6 +38,12 @@ arts:
   title: "Downtown 60's scene."
   artist: "Karl Ni"
   description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
+
+- image: "/galleria/images/galleries/illustration/PlayingWithDumpTruck.jpg"
+  order: "16"
+  artist: "Karl Ni"
+  title: "Children with a Dump Truck"
+  description: "Sketch and shadow of children using a dump truck."
  
 # Column 3
 - image: "/galleria/images/galleries/illustration/CarlSagan.jpg"
@@ -57,6 +63,12 @@ arts:
   title: "Vision Sketch"
   artist: "Karl Ni"
   description: "At the height of Wanda Vision, I sketched this based on Marvel comics I'd seen."
+
+- image: "/galleria/images/galleries/illustration/Mariachi.jpg"
+  order: "15"
+  artist: "Karl Ni"
+  title: "The Mariachi Loco"
+  description: "Mariachi band on iPad."
 
 # Column 4
 - image: "/galleria/images/galleries/illustration/WoodenCorridor.jpg"
@@ -82,4 +94,10 @@ arts:
   title: "Girl with a Shadow"
   artist: "Karl Ni"
   description: "Sketch and practice."
+
+- image: "/galleria/images/galleries/illustration/FastFood.jpg"
+  order: "14"
+  artist: "Karl Ni"
+  title: "Fast Food at Your Service"
+  description: "Thank you to the fast food servers during COVID."
 ---
