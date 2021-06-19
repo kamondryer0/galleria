@@ -2,43 +2,43 @@
 name: "covers"
 arts:
 # Row 1
-- image: "images/galleries/covers/Thieves-at-Heart.jpg"
+- image: "galleria/images/galleries/illustration/FastFood.jpg"
   order: "1"
-  artist: "Sam Wood"
-  title: "Thieves at Heart"
-  description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Thieves at Heart' novel."
+  artist: "Karl Ni"
+  title: "Fast Food at Your Service"
+  description: "Thank you to the fast food servers during COVID."
   
-- image: "images/galleries/covers/A-Fistful-of-Lunars.jpg"
+- image: "/galleria/images/galleries/covers/A-Fistful-of-Lunars.jpg"
   order: "5"
   artist: "Adrian Ricker"
   title: "A Fistful of Lunars"
   description: "Original cover art by Adrian Ricker for Tristan J. Tarwater's graphic novel 'A Fistful of Lunars'."
  
 # Row 2
-- image: "images/galleries/covers/Self-Made-Scoundrel.jpg"
+- image: "/galleria/images/galleries/covers/Self-Made-Scoundrel.jpg"
   order: "2"
   artist: "Sam Wood"
   title: "Self-Made Scoundrel"
   description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Self-Made Scoundrel' novel."
   
-- image: "https://1.bp.blogspot.com/-MHfwG5S8ap0/XhgdfnYaltI/AAAAAAAAFoI/JajObIuIzfItMx1ftvKlxHCz9ErtL90OACLcBGAsYHQ/s1600/1.jpg"
+- image: "galleria/images/galleries/illustration/NightRiver.jpg"
   order: "6"
-  artist: "Pong Kyubi"
-  title: "Pong Kyubi"
-  description: "Pong Kyubi"
+  artist: "Karl Ni"
+  title: "Night River"
+  description: "Canal in the city at night before the new year."
 
 # Row 3
-- image: "https://images-cdn.9gag.com/photo/a6NzVGe_700b.jpg"
+- image: "/galleria/images/galleries/illustration/Mariachi.jpg"
   order: "3"
-  artist: "Pong Kyubi"
-  title: "Pong Kyubi"
-  description: "Pong Kyubi low resolution"
+  artist: "Karl Ni"
+  title: "The Mariachi Loco"
+  description: "Mariachi band on iPad."
   
-- image: "https://images-cdn.9gag.com/photo/axMMPm1_700b.jpg"
+- image: "galleria/images/galleries/illustration/PlayingWithDumpTruck.jpg"
   order: "7"
-  artist: "Pong Kyubi"
-  title: "Pong Kyubi"
-  description: "PK influencer"
+  artist: "Karl Ni"
+  title: "Children with a Dump Truck"
+  description: "Sketch and shadow of children using a dump truck."
  
 # Row 4
 - image: "images/galleries/covers/TheMaraudersIsland.jpg"

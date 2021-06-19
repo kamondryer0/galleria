@@ -2,23 +2,23 @@
 name: "illustration"
 arts:
 # Column 1
-- image: "/galleria/images/galleries/illustration/AvenueinSchlossKammerPark.jpg"
+- image: "/galleria/images/galleries/illustration/EileenDonan.jpg"
   order: "1"
-  title: "Avenue in Schloss Kammer Park"
-  artist: "Gustav Klimt"
-  description: 
+  title: "Eileen Donan Castle"
+  artist: "Karl Ni"
+  description: "Eileen Donan."
   
-- image: "https://i.redd.it/f4jwijuxopa61.jpg"
+- image: "/galleria/images/galleries/illustration/BarOnWood.jpg"
   order: "2"
   title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  artist: "Karl Ni"
+  description: "Bar scene on wood. Listed on Etsy and bought. To appear in a bar in Texas."
 
-- image: "/galleria/images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
+- image: "/galleria/images/galleries/illustration/BreakfastAtTiffanies.jpg"
   order: "3"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "Breakfast at Tiffany's"
+  artist: "Karl Ni"
+  description: "Breakfast at Tiffany's: Audrey Hepburn."
 
 # Column 2
 - image: "/galleria/images/galleries/illustration/Baby.jpg"
@@ -40,11 +40,11 @@ arts:
   description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
  
 # Column 3
-- image: ""
+- image: "/galleria/images/galleries/illustration/CarlSagan.jpg"
   order: "7"
-  title: "Trees"
-  artist: "Gustav Klimt"
-  description: "asfsdfsdf"
+  title: "Carl Sagan"
+  artist: "Karl Ni"
+  description: "Colorized sketch of Carl Sagan."
 
 - image: "http://uckarl.github.io/interests/full-ipadart/full-pcar1.png"
   order: "8"
@@ -65,21 +65,21 @@ arts:
   artist: "Karl Ni"
   description: "Product on Etsy http://etsy.com/listing/967048881, sketched on wood, curved vanishing point due to nonlinear road."
   
-- image: "https://pbs.twimg.com/media/ElzDrbIVcAI2YBU.jpg"
+- image: "/galleria/images/galleries/illustration/CalvinAndHobbes.jpg"
   order: "11"
-  title: "Pong Kyubi"
-  artist: "Pong Kyubi"
-  description: "Pong Kyubi influencer."
+  title: "Calvin and Hobbes"
+  artist: "Karl Ni"
+  description: "A tribute to Mark Waterson. Calvin and Hobbes was a childhood favorite."
   
-- image: "https://w.wallhaven.cc/full/wy/wallhaven-wyg38p.jpg"
+- image: "/galleria/images/galleries/illustration/EasyBeingGreen.jpg"
   order: "12"
-  title: "Viki Virgo"
-  artist: "Viki Virgo"
-  description: "description"
+  title: "It Ain't Easy Being Green"
+  artist: "Karl Ni"
+  description: "Jim Henson's Kermit the Frog in an Iconic Song."
   
-- image: "https://i.imgur.com/DTWc5NP.jpg"
+- image: "/galleria/images/galleries/illustration/GirlShadow.jpg"
   order: "13"
-  title: "Viki Virgo"
-  artist: "Viki Virgo"
-  description: "description"
+  title: "Girl with a Shadow"
+  artist: "Karl Ni"
+  description: "Sketch and practice."
 ---
