@@ -40,7 +40,7 @@ arts:
   description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
  
 # Column 3
-- image: "/images/galleries/illustration/Birch-Trees.jpg"
+- image: "/galleria/images/galleries/illustration/Birch-Trees.jpg"
   order: "7"
   title: "Trees"
   artist: "Gustav Klimt"
@@ -69,7 +69,7 @@ arts:
   order: "11"
   title: "Pong Kyubi"
   artist: "Pong Kyubi"
-  description: "description"
+  description: "Pong Kyubi influencer."
   
 - image: "https://w.wallhaven.cc/full/wy/wallhaven-wyg38p.jpg"
   order: "12"
