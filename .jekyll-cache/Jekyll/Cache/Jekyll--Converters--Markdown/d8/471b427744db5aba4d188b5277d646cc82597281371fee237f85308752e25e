@@ -1,4 +1,4 @@
-I"9<h1 id="lightbox">Lightbox</h1>
+I"^<h1 id="lightbox">Lightbox</h1>
 <p>The Javascript-free lightbox is the pop-up that displays a gallery image when it’s clicked. <em>You must create a page that uses the <a href="/documentation/layouts/#gallery-page">gallery layout</a> if you want to use our lightbox)</em>.</p>
 
 <p>The lightbox colors can be configured via the _variables.scss file.</p>
@@ -11,5 +11,5 @@
 
 <p>Both the caption and the description will simply not show if that information is left blank for a particular image in the gallery.yml file.</p>
 
-<p><img src="/images/posts/lightbox-screenshot.jpg" alt="Lightbox Example Screenshot" /></p>
+<p><img src="https://kamondryer.github.io/galleria/images/posts/lightbox-screenshot.jpg" alt="Lightbox Example Screenshot" /></p>
 :ET
