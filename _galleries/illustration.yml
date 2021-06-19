@@ -155,4 +155,22 @@ arts:
   artist: "Karl Ni"
   description: "Emo Ice Cream Truck. On a sunny day with fold out chairs."
 
+- image: "/galleria/images/galleries/illustration/Bookmarks.jpg"
+  order: "26"
+  title: "Bookmarks for Jenn"
+  artist: "Karl Ni"
+  description: "Laminated bookmarks made for my friend"
+
+- image: "/galleria/images/galleries/illustration/CarlSagan.jpg"
+  order: "27"
+  title: "Educator and Scientist"
+  artist: "Karl Ni"
+  description: "A colorized sketch of Carl Sagan, the creator of Cosmos, the original TV show."
+
+- image: "/galleria/images/galleries/illustration/Eichler.jpg"
+  order: "28"
+  title: "Eichler"
+  artist: "Karl Ni"
+  description: "An Eichler house sketched in Palo Alto"
+
 ---
