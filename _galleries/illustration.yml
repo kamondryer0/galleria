@@ -149,4 +149,10 @@ arts:
   artist: "Karl Ni"
   description: "Original. Don't Want to Live on the Moon, Ernie and Bert."
 
+- image: "/galleria/images/galleries/illustration/BreakfastAtTiffanies.jpg"
+  order: "3"
+  title: "The Traveling Ice Cream Truck"
+  artist: "Karl Ni"
+  description: "Emo Ice Cream Truck. On a sunny day with fold out chairs."
+
 ---
