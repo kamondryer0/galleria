@@ -21,24 +21,24 @@ arts:
   title: "Self-Made Scoundrel"
   description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Self-Made Scoundrel' novel."
   
-- image: "images/galleries/covers/Lone-Idiot-and-Cub.jpg"
+- image: "https://1.bp.blogspot.com/-MHfwG5S8ap0/XhgdfnYaltI/AAAAAAAAFoI/JajObIuIzfItMx1ftvKlxHCz9ErtL90OACLcBGAsYHQ/s1600/1.jpg"
   order: "6"
-  artist: "Adrian Ricker"
-  title: "Lone Idiot and Cub"
-  description: "Original cover art by Adrian Ricker for Tristan J. Tarwater's graphic novel 'Lone Idiot and Cub'."
+  artist: "Pong Kyubi"
+  title: "Pong Kyubi"
+  description: "Pong Kyubi"
 
 # Row 3
-- image: "images/galleries/covers/Red-Moon-Rising.jpg"
+- image: "https://images-cdn.9gag.com/photo/a6NzVGe_700b.jpg"
   order: "3"
-  artist: "Sam Wood"
-  title: "Red Moon Rising"
-  description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Red Moon Rising' novel."
+  artist: "Pong Kyubi"
+  title: "Pong Kyubi"
+  description: "Pong Kyubi low resolution"
   
-- image: "images/galleries/covers/Tired.jpg"
+- image: "https://images-cdn.9gag.com/photo/axMMPm1_700b.jpg"
   order: "7"
-  artist: "Genue Revuelta"
-  title: "Tired"
-  description: "Original cover art by Genue Revuelta for Tristan J. Tarwater's short story 'Tired'."
+  artist: "Pong Kyubi"
+  title: "Pong Kyubi"
+  description: "PK influencer"
  
 # Row 4
 - image: "images/galleries/covers/TheMaraudersIsland.jpg"

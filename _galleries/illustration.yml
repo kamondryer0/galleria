@@ -40,7 +40,7 @@ arts:
   description: "Sketch from 2017, inspired by Castro Street, Mountain View. Drawn with iPad pencil."
  
 # Column 3
-- image: "/galleria/images/galleries/illustration/Birch-Trees.jpg"
+- image: ""
   order: "7"
   title: "Trees"
   artist: "Gustav Klimt"
