@@ -143,4 +143,10 @@ arts:
   artist: "Karl Ni"
   description: "Original semi-truck, painted with Optimus Prime colors."
 
+- image: "/galleria/images/galleries/illustration/LiveOnTheMoon.jpg"
+  order: "24"
+  title: "View from the Moon"
+  artist: "Karl Ni"
+  description: "Original. Don't Want to Live on the Moon, Ernie and Bert."
+
 ---
