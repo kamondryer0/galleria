@@ -124,4 +124,16 @@ arts:
   artist: "Karl Ni"
   title: "Traffic in the European City"
   description: "Traffic in the European City."
----
+
+- image: "http://uckarl.github.io/interests/portraits-ipadart/rosie.jpg"
+  order: "21"
+  artist: "Karl Ni"
+  title: "Ready Rosie"
+  description: "Rosie the dog."
+
+- image: "http://uckarl.github.io/interests/story-ipadart/mv-ship.png"
+  order: "22"
+  artist: "Karl Ni"
+  title: "Noah's Boat"
+  description: "See http://musewak.blogspot.com/2016/07/noahs-ark-replica-in-kentucky.html."
+  ---
