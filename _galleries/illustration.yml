@@ -136,4 +136,11 @@ arts:
   artist: "Karl Ni"
   title: "Noah's Boat"
   description: "NPR stories - flood in Kentucky."
+
+- image: "/galleria/images/galleries/illustration/BreakfastAtTiffanies.jpg"
+  order: "23
+  title: "Optimus Prime"
+  artist: "Karl Ni"
+  description: "Original semi-truck, painted with Optimus Prime colors."
+
 ---
