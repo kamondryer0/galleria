@@ -1,48 +1,20 @@
 ---
 name: "covers"
 arts:
-# Row 1
-- image: "galleria/images/galleries/illustration/FastFood.jpg"
-  order: "1"
-  artist: "Karl Ni"
-  title: "Fast Food at Your Service"
-  description: "Thank you to the fast food servers during COVID."
-  
 - image: "/galleria/images/galleries/covers/A-Fistful-of-Lunars.jpg"
-  order: "5"
+  order: "1"
   artist: "Adrian Ricker"
   title: "A Fistful of Lunars"
   description: "Original cover art by Adrian Ricker for Tristan J. Tarwater's graphic novel 'A Fistful of Lunars'."
  
-# Row 2
 - image: "/galleria/images/galleries/covers/Self-Made-Scoundrel.jpg"
   order: "2"
   artist: "Sam Wood"
   title: "Self-Made Scoundrel"
   description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Self-Made Scoundrel' novel."
   
-- image: "galleria/images/galleries/illustration/NightRiver.jpg"
-  order: "6"
-  artist: "Karl Ni"
-  title: "Night River"
-  description: "Canal in the city at night before the new year."
-
-# Row 3
-- image: "/galleria/images/galleries/illustration/Mariachi.jpg"
-  order: "3"
-  artist: "Karl Ni"
-  title: "The Mariachi Loco"
-  description: "Mariachi band on iPad."
-  
-- image: "galleria/images/galleries/illustration/PlayingWithDumpTruck.jpg"
-  order: "7"
-  artist: "Karl Ni"
-  title: "Children with a Dump Truck"
-  description: "Sketch and shadow of children using a dump truck."
- 
-# Row 4
 - image: "images/galleries/covers/TheMaraudersIsland.jpg"
-  order: "4"
+  order: "3"
   artist: "Mildred Louis"
   title: "The Marauders' Island"
   description: "Original cover art by Mildred Louis for Tristan J. Tarwater's 'The Marauders' Island' novel."
