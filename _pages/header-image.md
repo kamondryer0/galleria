@@ -1,13 +1,13 @@
 ---
 layout: page
 title: header-image
-permalink: "/documentation/header-image/"
+permalink: "/galleria/documentation/header-image/"
 header: /images/logo-flip.png
 ---   
 # Site-wide Header Image
 You can set the header image site-wide by adding the following code to your `_config.yml`
 ```
-header: images/IMAGE-NAME.png
+header: /galleria/images/IMAGE-NAME.png
 ```
 
 ## Per Page Header Image
