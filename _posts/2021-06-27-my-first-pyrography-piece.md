@@ -2,14 +2,13 @@
 layout: post
 title: "Sample post with thumbnail"
 
-keywords: Shamsee, Lone Idiot and Cub, Tristan J. Tarwater, Adrian Ricker
+keywords: pyrography, sketch, instagram, street scene, london
 description: Shamsee Lone Idiot and Cub - page 013
 
-thumbnail: /galleria/images/posts/thumbs/first-pyro-01.jpg
-
-facebook_type: 
-facebook_image: /galleria/images/posts/first-pyro-02.jpg
+thumbnail: /galleria/images/posts/thumbs/first-pyro-02.jpg
 
 ---
 
 This is my first attempt at wood burning, using the Webber pyrography kit.
+
+![](https://images-na.ssl-images-amazon.com/images/I/41sRDJAkd9L._AC_SX355_.jpg)
