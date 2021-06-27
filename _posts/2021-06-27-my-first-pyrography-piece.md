@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sample post with thumbnail"
+title: "My First Pyrography Scene (London)"
 
 keywords: pyrography, sketch, instagram, street scene, london
 description: Shamsee Lone Idiot and Cub - page 013
