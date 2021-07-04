@@ -173,4 +173,11 @@ arts:
   artist: "Karl Ni"
   description: "An Eichler house sketched in Palo Alto"
 
+- image: "https://i.redd.it/g92zh8cfb2851.jpg"
+  order: "29"
+  title: "Viki Virgo 0"
+  artist: "Karl Ni"
+  description: "Viki Virgo Influencer"
+
+
 ---
